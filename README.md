@@ -2,9 +2,11 @@
 
 **Senior Engineering Manager · Open Source Maintainer · AI Builder**
 
-I lead platform engineering at Comcast Cable — Device API Middleware for RDK-based set-top boxes and Smart TVs — while independently building and shipping AI-assisted products on the side.
-
+I lead platform engineering at Comcast Cable — Device API Middleware for RDK-based set-top boxes and Smart TVs.
+ 
 I also drive **AI tooling adoption** across engineering teams, evaluating and rolling out tools like Copilot, Windsurf, Devin, Claude Code, and Sourcegraph Amp to improve developer productivity at scale.
+ 
+On the side, I independently design, build, and ship AI-native products — from zero to production — spanning full-stack web, mobile, and macOS, with AI embedded at the core of each product rather than bolted on.
 
 ---
 
