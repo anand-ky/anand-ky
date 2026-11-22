@@ -36,9 +36,6 @@ I build and ship AI-native products independently, from concept to production.
 
 These are independently designed, built, and shipped, not demos. All projects were built using GenAI coding tools including **Bolt.new**, **Claude Code**, and **Codex**. Several also use AI internally within the app itself (LLM-powered features, not just AI-assisted development).
 
----|---|
-| **ClearStack** | Cross-platform newsletter triage mobile app built with Expo (React Native) and Supabase. Helps you efficiently triage email newsletters with an intuitive swipe interface: connect your Gmail account to automatically import newsletters and decide which ones to keep or mute. |
-
 ---
 
 ## 📌 What I'm Focused On
