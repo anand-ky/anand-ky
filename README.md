@@ -52,17 +52,6 @@ These are independently designed, built, and shipped, not demos. All projects we
 
 ---
 
-## 🧰 Tech & Credentials
-
-```
-Languages     C++  ·  JavaScript  ·  Python  ·  Shell
-Platforms     RDK  ·  WPEFramework/Thunder  ·  Azure  ·  Linux
-AI/ML         Azure AI Engineer Associate  ·  LLM APIs  ·  MCP  ·  RAG
-Management    PMP  ·  PMI-ACP  ·  ~25 years across embedded → enterprise → platform
-```
-
----
-
 ## 📫 Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/anandkandasamy369/)
